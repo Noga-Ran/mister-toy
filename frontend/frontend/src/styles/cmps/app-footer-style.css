@@ -1,0 +1,11 @@
+.main-footer{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: 9999;
+}

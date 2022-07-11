@@ -1,0 +1,6 @@
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    background-color: cornflowerblue;
+}
